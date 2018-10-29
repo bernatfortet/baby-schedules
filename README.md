@@ -1,0 +1,1 @@
+yarn add polished styled-components @types/styled-components @bernatfortet/global-styles react-router-dom @types/react-router-dom @types/react-router react-custom-scrollbars tippy.js @tippy.js/react formik react-helmet

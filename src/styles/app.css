@@ -1,0 +1,9 @@
+@import '../fonts/inter-ui.css';
+
+html{ background:white; box-sizing: border-box; }
+html, body, #root { width:100%; min-height:100%; height:100%; margin:0; padding:0; }
+body{ overflow: auto; overscroll-behavior-y: none; }
+a{ text-decoration:none; color:inherit;}
+*, *:before, *:after{ box-sizing: inherit; }
+svg{ box-sizing: content-box; }
+input{ outline:0; border:0; font-size:inherit !important; }
